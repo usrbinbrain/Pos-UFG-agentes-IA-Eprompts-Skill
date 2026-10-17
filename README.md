@@ -9,7 +9,7 @@ O repositório como um todo compõe a entrega do trabalho, sendo dividido em dua
 
 ## 🧠 A Skill: Code Token Optimizer
 
-A skill [`code-token-optimizer`](.github\skills\code-token-optimizer\SKILL.md) foi criada para instruir um agente LLM a atuar como um minificador nativo de código-fonte. 
+A skill [`code-token-optimizer`](https://github.com/usrbinbrain/Pos-UFG-agentes-IA-Eprompts-Skill/blob/main/.github/skills/code-token-optimizer/SKILL.md) foi criada para instruir um agente LLM a atuar como um minificador nativo de código-fonte. 
 
 **Principais características:**
 - **Atuação In-Place:** O agente analisa e sobrescreve os arquivos originais diretamente no projeto, reduzindo o uso de tokens e o tamanho do arquivo.
@@ -20,7 +20,7 @@ A skill [`code-token-optimizer`](.github\skills\code-token-optimizer\SKILL.md) f
 
 ## 🎯 Projeto Alvo de Teste: API de Cotação USD/BRL
 
-Para demonstrar a eficácia da skill [`code-token-optimizer`](.github\skills\code-token-optimizer\SKILL.md) na prática, utilizamos como base o código desta API construída em Python com FastAPI. Ela serve para consultar a cotação entre dólar americano (USD) e real brasileiro (BRL), obtendo os dados através da [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
+Para demonstrar a eficácia da skill [`code-token-optimizer`](https://github.com/usrbinbrain/Pos-UFG-agentes-IA-Eprompts-Skill/blob/main/.github/skills/code-token-optimizer/SKILL.md) na prática, utilizamos como base o código desta API construída em Python com FastAPI. Ela serve para consultar a cotação entre dólar americano (USD) e real brasileiro (BRL), obtendo os dados através da [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
 
 ### Setup
 
